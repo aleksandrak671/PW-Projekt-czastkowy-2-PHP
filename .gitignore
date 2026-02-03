@@ -1,18 +1,19 @@
-# Pliki konfiguracyjne z danymi dostępowymi
+# pliki konfiguracyjne z danymi dostępowymi
 config.php
 
-# Eksporty bazy danych (mogą zawierać wrażliwe dane)
+# eksporty bazy danych (mogą zawierać wrażliwe dane)
 *.sql
 database.sql
 database_export.sql
 
-# Pliki systemowe
+# pliki systemowe
 .DS_Store
 Thumbs.db
 *.log
 
-# Foldery IDE
+# foldery IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+
