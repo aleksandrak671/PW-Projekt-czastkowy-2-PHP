@@ -1,4 +1,4 @@
-# PW Projekt: czastkowy 2 PHP (Online Bookstore)
+# PHP Online Bookstore
 
 Simple online bookstore with shopping cart functionality built with PHP and MySQL.
 
